@@ -1,5 +1,3 @@
-https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1694044800&v=beta&t=zr4ocpFETLMm0fzf01dNZDsQgzzfajZuJSEtGUgWh70
-
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate Web3 developer from Türkiye</h3>
 
@@ -17,5 +15,3 @@ https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundi
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufsural&show_icons=true&locale=en&layout=compact" alt="yusufsural" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufsural&show_icons=true&locale=en" alt="yusufsural" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufsural&" alt="yusufsural" /></p>
