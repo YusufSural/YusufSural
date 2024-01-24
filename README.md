@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A passionate Web3 developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **JavaScript**
-
 - 📫 How to reach me **YusufSural07@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
